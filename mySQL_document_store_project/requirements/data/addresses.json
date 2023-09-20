@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "ad1",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "street": "Manesova",
+        "houseNumber": 64,
+        "postCode": "12000",
+        "bars": [
+            "br1"
+        ]
+    },
+    {
+        "_id": "ad2",
+        "type": "voc:Address",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "street": "U Milosrdnych",
+        "houseNumber": 851,
+        "postCode": "11000",
+        "bars": [
+            "br:2"
+        ]
+    },
+    {
+        "_id": "ad3",
+        "type": "voc:Address",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "street": "V Kolkovne",
+        "houseNumber": 920,
+        "postCode": "11000",
+        "bars": [
+            "br:3"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "_id": "br1",
+        "name": "Rapture Morning",
+        "wifi": false,
+        "clients": [ "cl1", "cl2", "cl4", "cl5" ],
+        "terrace": {
+            "id": "tr3",
+            "open": false,
+            "size": 50,
+            "smokeasies": true
+        },
+        "founded": "2016-01-01"
+    },
+    {
+        "_id": "br2",
+        "name": "Rapture Afternoon",
+        "wifi": true,
+        "clients": [ "cl1", "cl2", "cl4" ],
+        "terrace": {
+            "id": "tr1",
+            "open": true,
+            "size": 150,
+            "smokeasies": true
+        },
+        "founded": "2015-01-01"
+    },
+    {
+        "_id": "br3",
+        "name": "Rapture Evening",
+        "wifi": true,
+        "clients": [ "cl4" ],
+        "terrace": {
+            "id": "tr2",
+            "open": true,
+            "size": 100,
+            "smokeasies": false
+        },
+        "founded": "2014-01-01"
+    }
+]

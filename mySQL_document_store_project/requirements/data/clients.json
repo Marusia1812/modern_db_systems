@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "cl1",
+        "givenName": "Annalise",
+        "familyName": "Keating",
+        "age": 43,
+        "phone": [
+            "+420785469854"
+        ],
+        "visited": ["br1", "br2"]
+    },
+    {
+        "_id": "cl2",
+        "givenName": "Laurel",
+        "familyName": "Castillo",
+        "age": 25,
+        "phone": [
+            "+420985632147"
+        ],
+        "visited": ["br1", "br2"]
+    },
+    {
+        "_id": "cl3",
+        "givenName": "Connor",
+        "familyName": "Walsh",
+        "age": 26,
+        "phone": [
+            "+420874589652"
+        ],
+        "visited": []
+    },
+    {
+        "_id": "cl4",
+        "givenName": "Wes",
+        "familyName": "Gibbins",
+        "age": 20,
+        "phone": [
+            "+420876325896"
+        ],
+        "visited": ["br1", "br2", "br3"]
+    },
+    {
+        "_id": "cl5",
+        "givenName": "Rebecca",
+        "familyName": "Sutter",
+        "age": 18,
+        "phone": [
+            "+420245896574"
+        ],
+        "visited": ["br1"]
+    }
+]
