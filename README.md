@@ -1,1 +1,1 @@
-# modern_db_systems
+# My Project for the Modern Database Systems Course
